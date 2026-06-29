@@ -13,10 +13,10 @@ Aqui estão as ferramentas que uso no meu dia a dia para dar vida aos projetos:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![React]
-![TypeScript]
-![Node]
 
 ---
 
@@ -25,8 +25,8 @@ Aqui estão as ferramentas que uso no meu dia a dia para dar vida aos projetos:
 Aqui estão alguns dos projetos onde apliquei lógica, APIs e manipulação de dados:
 
 #### 🤖 [Recomendação de Produtos para Clientes](https://github.com/Pedr030/a3-joberto)
-* **O que faz:** Recomenda produtos para o cliente baseado nas compras de seus vizinhos com perfil de consumo mais parecidos com o seu.
-* **Stack:** Python, Jupyter Notebook, Pandas, Sklearn, Matplotlib.
+* **O que faz:** Recomenda produtos ideais para um cliente baseado no histórico de compras e perfil de consumo de usuários com comportamentos semelhantes (vizinhos mais próximos).
+* **Stack:** Python, Jupyter Notebook, Pandas, Scikit-Learn, Matplotlib.
 
 #### 📦 [Automação de Cadastro de Produtos](https://github.com/Pedr030/Automacao-de-cadastro)
 * **O que faz:** Sistema inteligente que lê uma base de dados no Excel e automatiza o processo de digitação e cadastro desses produtos em uma interface web.
