@@ -24,17 +24,13 @@ Aqui estão as ferramentas que uso no meu dia a dia para dar vida aos projetos:
 
 Aqui estão alguns dos projetos onde apliquei lógica, APIs e manipulação de dados:
 
-#### 🪙 [Cotação de Moedas via API](https://github.com/Pedr030/Cotacao-Moedas-API)
-* **O que faz:** Captura cotações das principais moedas globais em tempo real através de requisições a APIs externas.
-* **Stack:** Python, JSON, Requests (API).
+#### 🤖 [Recomendação de Produtos para Clientes](https://github.com/Pedr030/a3-joberto)
+* **O que faz:** Recomenda produtos para o cliente baseado nas compras de seus vizinhos com perfil de consumo mais parecidos com o seu.
+* **Stack:** Python, Jupyter Notebook, Pandas, Sklearn, Matplotlib.
 
 #### 📦 [Automação de Cadastro de Produtos](https://github.com/Pedr030/Automacao-de-cadastro)
 * **O que faz:** Sistema inteligente que lê uma base de dados no Excel e automatiza o processo de digitação e cadastro desses produtos em uma interface web.
 * **Stack:** Python, PyAutoGUI, Pandas, Excel.
-
-#### 📊 [Análise de Dados: Exportações Brasil ➔ França](https://github.com/Pedr030/Analise-export-BRA_to_FRA)
-* **O que faz:** Análise minuciosa dos dados comerciais de exportação de cidades brasileiras para a França (período de 2016 a 2020), extraindo insights estatísticos.
-* **Stack:** Python, Pandas, Excel.
 
 #### 🧮 [Math Hub (Em Desenvolvimento)](https://math-hub-umber.vercel.app)
 * **O que faz:** Uma central modular de micro-ferramentas matemáticas e utilitárias voltada para estudantes e professores. O primeiro módulo conta com uma calculadora científica baseada em notação LISP.
