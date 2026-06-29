@@ -24,6 +24,10 @@ Aqui estão as ferramentas que uso no meu dia a dia para dar vida aos projetos:
 
 Aqui estão alguns dos projetos onde apliquei lógica, APIs e manipulação de dados:
 
+#### 🚚 [API de Otimização de Rotas](https://github.com/Pedr030/Desafio-Node)
+* **O que faz:** API RESTful robusta e escalável projetada para gerenciar e otimizar rotas de logística e entrega utilizando o algoritmo do Vizinho Mais Próximo. Conta com proteção de rotas via JWT, Rate Limiting contra abusos e infraestrutura moderna orquestrada de ponta a ponta.
+* **Stack:** NestJS, TypeScript, MongoDB, Docker, Docker Compose, Kubernetes (Deploy & Config).
+
 #### 🤖 [Recomendação de Produtos para Clientes](https://github.com/Pedr030/a3-joberto)
 * **O que faz:** Recomenda produtos ideais para um cliente baseado no histórico de compras e perfil de consumo de usuários com comportamentos semelhantes (vizinhos mais próximos).
 * **Stack:** Python, Jupyter Notebook, Pandas, Scikit-Learn, Matplotlib.
