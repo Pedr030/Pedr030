@@ -1,8 +1,8 @@
 # Olá, eu sou o Pedro Fernandes! 👋
 
-Peguei o gosto por transformar linhas de código em soluções práticas e automatizadas. Sou estudante de **Ciência da Computação na Universidade de Salvador** e atualmente estou imerso no ecossistema Python, focado em análise de dados, automação de processos e desenvolvimento de software.
+Desenvolvedor de Software focado em construir soluções automatizadas, inteligentes e escaláveis de ponta a ponta. Sou estudante de **Ciência da Computação na Universidade de Salvador**, com forte atuação prática no desenvolvimento de APIs RESTful modernas (NestJS/TypeScript), arquitetura de microsserviços containerizados com Docker e Kubernetes, e engenharia de dados aplicada com Machine Learning (Python/Scikit-Learn).
 
-🎯 **Objetivo atual:** Buscando minha primeira oportunidade de estágio para somar com um time de tecnologia, aprender muito e gerar valor real.
+🎯 **Objetivo atual:** Buscando oportunidades para integrar e somar com um time de tecnologia, aplicar minha experiência com backend/dados e evoluir em projetos de alto impacto.
 
 ---
 
